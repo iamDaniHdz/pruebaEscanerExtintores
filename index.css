@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#products p{
+    padding: 2vh;
+    margin:0;
+    border-bottom: 1px red solid;
+}
